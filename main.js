@@ -93,7 +93,7 @@ console.log(getDataType(car, "make"));
 
 // ADD TODO
 function addTodo(todo, newItem){
-    todos.push(newItem);
+    todo.push(newItem);
     return todo
 }
 
